@@ -18,7 +18,7 @@ This repository is licensed under the [zlib][license] License.
 
 © 2023 [Chloe Arciniega][chloe].
 
-[archive]: https://github.com/solely-archive
-[chloe]: https:///www.arciniega.one
-[hibiki]: https://github.com/solely-archive/hibiki
+[archive]: https://github.com/solely-archive 'solely-archive organization'
+[chloe]: https:///www.arciniega.one 'Chloe Arciniega\'s website (arciniega.one)'
+[hibiki]: https://github.com/solely-archive/hibiki 'Hibiki\'s repository on GitHub'
 [license]: https://github.com/solely-archive/sol-bot/blob/main/LICENSE 'zlib License'
