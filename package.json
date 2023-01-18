@@ -1,0 +1,34 @@
+{
+  "name": "ram",
+  "version": "1.0.0",
+  "description": "Ram was a modular and fun Discord bot. Written in Akairo.",
+  "author": "Chloe Arciniega <solely@riseup.net>",
+  "main": "src/bot.js",
+  "license": "zlib",
+  "private": true,
+  "scripts": {
+    "format:prettier": "prettier --w --plugin-search-dir=. .",
+    "lint:eslint": "eslint --fix src/**/*.js",
+    "start": "node src/bot",
+    "test": "eslint src/**/*.js && prettier --c ."
+  },
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "@types/eslint": "^8.4.10",
+    "@types/prettier": "^2.7.2",
+    "chalk": "^5.2.0",
+    "common-tags": "^1.8.2",
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^14.7.1",
+    "eslint": "^8.32.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.11",
+    "pg": "^8.8.0",
+    "prettier": "^2.8.3",
+    "random-js": "^2.1.0",
+    "raven": "^2.6.4",
+    "sequelize": "^6.28.0",
+    "taihou": "^2.0.7"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "recommendations": ["EditorConfig.EditorConfig", "esbenp.prettier-vscode"],
+  "unwantedRecommendations": []
+}
